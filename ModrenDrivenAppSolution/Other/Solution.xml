@@ -81,7 +81,6 @@
       <RootComponent type="1" schemaName="mdpa_timeoffrequests" behavior="0" />
       <RootComponent type="62" schemaName="mdpa_TimeOffRequests" behavior="0" />
       <RootComponent type="80" schemaName="mdpa_TimeOffRequests" behavior="0" />
-      <RootComponent type="300" schemaName="mdpa_timeoffrequests_0d10a" behavior="0" />
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>
