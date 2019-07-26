@@ -1,9 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <EntityRelationship Name="business_unit_mdpa_timeoffrequests" />
-  <EntityRelationship Name="lk_mdpa_timeoffrequests_createdby" />
-  <EntityRelationship Name="lk_mdpa_timeoffrequests_modifiedby" />
-  <EntityRelationship Name="owner_mdpa_timeoffrequests" />
-  <EntityRelationship Name="team_mdpa_timeoffrequests" />
-  <EntityRelationship Name="user_mdpa_timeoffrequests" />
-</EntityRelationships>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />

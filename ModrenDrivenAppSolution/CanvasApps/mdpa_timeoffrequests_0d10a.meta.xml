@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>mdpa_timeoffrequests_0d10a</Name>
+  <AppVersion>2019-07-23T11:21:04Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.19072.12.0</CreatedByClientVersion>
+  <MinClientVersion>3.19072.12.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"21ee6ed0-8cb3-45f4-9978-d32cdb10da1c","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.19072.12","minimumRequiredApiVersion":"2.2.0","hasComponent":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>Time Off Requests</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"40e77571-1164-4335-9565-30d478491a1d":{"id":"/providers/microsoft.powerapps/apis/shared_dynamicscrmonline","displayName":"Dynamics 365","iconUri":"https://connectoricons-prod.azureedge.net/dynamicscrmonline/icon_1.0.1230.1641.png","dataSources":["Time Off Requests","Time Off Requests_1","Time Off Requests_2"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"org87076038.crm":{"dataSources":{"Time Off Requests":{"tableName":"mdpa_timeoffrequestses"}}},"org2bd6083f.crm":{"dataSources":{"Time Off Requests_1":{"tableName":"mdpa_timeoffrequestses"},"Time Off Requests_2":{"tableName":"mdpa_timeoffrequestses"}}}},"apiTier":"Standard"}}</ConnectionReferences>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <BackgroundImageUri>/CanvasApps/mdpa_timeoffrequests_0d10a_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/mdpa_timeoffrequests_0d10a_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
